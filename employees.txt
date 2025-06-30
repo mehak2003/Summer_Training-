@@ -1,0 +1,3 @@
+Mehak,23,trainee,20400
+rekha ,23,manager,30000
+amit ,52,developer,25000
